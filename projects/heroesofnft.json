@@ -1,0 +1,18 @@
+{
+  "name": "Heroes of NFT",
+  "slug": "hon",
+  "tags": ["card game","gaming", "dex", "nft", "play-to-earn"],
+  "status": "live",
+  "highlight": "Heroes of NFT is a native Avalanche project that has three main pillars: NFTs, Games (idle game and collectible card game), and the Metaverse",
+  "logo": "/img/hon.png",
+  "website": "https://www.heroesofnft.com/",
+  "twitter": "https://twitter.com/heroesofnft",
+  "telegram": "https://t.me/heroesofNFTofficial",
+  "github": "https://github.com/heroesofnft",
+  "discord": "https://discord.gg/gWXUPpj8ca",
+  "summary": "Heroes of NFT is a native Avalanche project with three main pillars: NFTs, Games (idle game and collectible card game), and the Metaverse. Idle games and collectible card games will feature play-to-earn mechanics while the NFTs are the main tools to play both games. In the Heroes of NFT Metaverse, players can create their own places, roam the universe, and interact with other users while enjoying the play-to-earn games in our battle arenas. The Metaverse will be the infrastructure for the game developers to launch their games with the play-to-earn feature.",
+  "docs": "https://docs.heroesofnft.com/",
+  "cmc": "https://coinmarketcap.com/currencies/heroes-of-nft/",
+  "date": "2021-04-01",
+  "token": "$HON"
+}
